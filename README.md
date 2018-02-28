@@ -1,9 +1,8 @@
-# Joys-Cards-BlackJack21
+# Joys Black Jack 21 point
 
-The classic Black Jack 21 is the most popular, playful and exciting poker game in the world. It is simple, easy to handle, and strategic and exciting. It is also a fun game we have prepared for you, where you can feel the most true experience, the game rules and the design of the real casino.
+21点黑杰克是全世界最流行、最好玩、最刺激的扑克游戏。它规则简单，易于上手，同时又富有策略性，刺激好玩。除了依靠好运气外，玩家之间需要斗智斗勇，比技术比手腕。不管您是一点规则都不懂的新手，还是追求刺激的高手，都能在这里找到乐趣。
 
-
-In the game, the player can get the bonus by throwing the chips, as long as the number of their points exceeds the opponent and does not exceed twenty-one points.
+游戏中，玩家通过投掷筹码，只要自己的点数超过对手并且没有超过二十一点，即可获取筹码奖励哦！
 
 
 ![Alt text](https://github.com/appdev-supports/Joys-Cards-BlackJack21/blob/master/img1.jpg)
